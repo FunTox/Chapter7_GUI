@@ -1,4 +1,3 @@
-# FPS_Scene
- Chapter 2+. Creating a FPS scene with keyboard movement, jump, sprint, mouse camera and more
+# GUI
+ Chapter 7. Adding a GUI to the game from chapter 3
 
-https://funtox.itch.io/uia-ch03-game 134679
